@@ -1,9 +1,8 @@
--- infernium.lua
+
 local games={
-    [1390601379]="CombatWarriors",
+    
     [4777817887]="BladeBall",
-    [2862098693]="ProjectDelta",
-    [1494262959]="Criminality"
+    
 }
 
 if games[game.GameId] then
